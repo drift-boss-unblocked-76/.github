@@ -1,6 +1,6 @@
 <h1><a href="https://lesson-4.guru">CLICK TO PLAY GAME</h1>
 <HR>---
-<H1><a href="https://lessonhun.guru">CLICK 2 PLAY UNB GAMES</a></H1>
+<H1><a href="https://lessonhub.guru">CLICK 2 PLAY UNB GAMES</a></H1>
 <HR>---
 
 <a href="https://lessonhub.guru"><img src="https://clearcache.store/games.png"></a>
